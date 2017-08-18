@@ -22,4 +22,13 @@ This is a python program which groups similar songs by performing a statistical 
     $ git clone https://github.com/amitasviper/AudioClassification
     ```
 2. Place your `.mp3` songs in the `audio_files` directory.
-
+3. Run the following command to convert `.mp3` songs to `.wav`.
+    ```
+    >> python mp3ToWav.py
+    ```
+3. To extract audio feature from the above proceesed songs run the followwing command
+    ```
+    >> python readAndProcess.py
+    ```
+4. Step 2 will generate a file named `featureOutput.csv`. This constains all the songs with their features.
+5. Now we can use these features to perform a statistical analysis.
