@@ -1,5 +1,5 @@
 # Audio Songs Genre Classification
-[![N|Solid](https://secure.gravatar.com/avatar/7273c58dc017eec83667b50742ff6368?s=80)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://secure.gravatar.com/avatar/7273c58dc017eec83667b50742ff6368?s=80)](https://www.linkedin.com/in/amitasviper/)
 
 This is a python program which groups similar songs by performing a statistical similarity between the audio forms of the mp3 songs. It uses R to generate a Voronoi diagram displaying the position of different songs. 
 
