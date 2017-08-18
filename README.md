@@ -14,7 +14,10 @@ This is a python program which groups similar songs by performing a statistical 
     ```
     >> brew install mpg123
     ```
-3. Install `R`. Follow instructions from `https://cran.r-project.org/bin/macosx/`
+3. Install `R`. Follow instructions from `https://cran.r-project.org/bin/macosx/`. Also install `deldir` package by running following command in R prmompt
+    ```
+    >> install.packages("deldir")
+    ```
 
 ### Steps to execute program
 1. Clone the current project to your local machine:

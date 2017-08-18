@@ -93,7 +93,7 @@ if __name__ == '__main__':
     csv_file = []
 
     csv_file.append([
-        'name',
+        'songName',
         'amp1mean',
         'amp1std',
         'amp1skew',
