@@ -1,0 +1,5 @@
+*.pyc
+.DS_Store
+venv
+audio_files/*.mp3
+audio_files/*.wav
