@@ -35,3 +35,5 @@ This is a python program which groups similar songs by performing a statistical 
     ```
 4. Step 2 will generate a file named `featureOutput.csv`. This constains all the songs with their features.
 5. Now we can use these features to perform a statistical analysis.
+6. Finally the `output.png` will look somewhat like the below given image.
+![alt text](output.png?raw=true)
